@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Wenn Sie CLEAR verwenden oder darauf verweisen, zitieren Sie es bitte so."
+title: "CLEAR – Kennzeichnung von KI-Beteiligung an Texten"
+type: dataset
+version: "1.0"
+license: CC-BY-4.0
+url: "https://github.com/LeonieGantenbein/clear-kennzeichnung"
+repository-code: "https://github.com/LeonieGantenbein/clear-kennzeichnung"
+abstract: >-
+  CLEAR ist ein Vorschlag zur freiwilligen Offenlegung, woran und wie weit eine
+  Künstliche Intelligenz an einem Text beteiligt war und wer dafür einsteht:
+  fünf Angaben pro beteiligter Person zu Konzeption, Sprache, Evidenz,
+  Ausweisung und Rechenschaft.
+keywords:
+  - Künstliche Intelligenz
+  - Kennzeichnung
+  - Transparenz
+  - Wissenschaftsethik
+  - Welttransparenz
+authors:
+  - family-names: Gantenbein
+    given-names: Leonie
+preferred-citation:
+  type: generic
+  title: "CLEAR – Kennzeichnung von KI-Beteiligung an Texten"
+  authors:
+    - family-names: Gantenbein
+      given-names: Leonie
+  year: 2026
+  version: "1.0"
+  url: "https://github.com/LeonieGantenbein/clear-kennzeichnung"
