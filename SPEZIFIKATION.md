@@ -103,4 +103,4 @@ CLEAR ist noch in keiner Praxis erprobt oder evaluiert und mit Sicherheit unvoll
 
 ---
 
-[Zurück zur Übersicht](README.md) · [Kultur vor Kennzeichnung](KULTUR.md)
+[Zurück zur Übersicht](README.md) · [Kultur vor Kennzeichnung](KULTUR.md) · English: [SPECIFICATION.md](SPECIFICATION.md)

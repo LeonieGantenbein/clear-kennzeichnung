@@ -30,4 +30,4 @@ Wirksam wird CLEAR erst dann, wenn ihr Fehlen wieder aussagekräftig ist – wen
 
 ---
 
-[Zurück zur Übersicht](README.md) · [Spezifikation](SPEZIFIKATION.md)
+[Zurück zur Übersicht](README.md) · [Spezifikation](SPEZIFIKATION.md) · English: [CULTURE.md](CULTURE.md)

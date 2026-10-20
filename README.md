@@ -9,6 +9,8 @@ Leonie Gantenbein · Version 1.0 · 2026
 Lizenz: [CC BY 4.0](LICENSE.md) – frei nutzbar und veränderbar unter Namensnennung der Urheberin.<br>
 URL: https://github.com/LeonieGantenbein/clear-kennzeichnung
 
+English version: [README.en.md](README.en.md)
+
 ## Überblick
 
 CLEAR ist ein Vorschlag zur freiwilligen Offenlegung, woran und wie weit eine Künstliche Intelligenz an einem Text beteiligt war – und wer dafür einsteht. Statt eines pauschalen Ja/Nein («KI-generiert») gibt CLEAR fünf Angaben pro beteiligter Person an, vergleichbar einer Quellenangabe: als Auskunft über das Handwerk.
@@ -42,7 +44,7 @@ CLEAR ist noch in keiner Praxis erprobt oder evaluiert und mit Sicherheit unvoll
 
 ## Herkunft
 
-CLEAR entstammt dem Buch *Zwischen Prompt und Welt. Über das Leben mit KI* von Leonie Gantenbein (erscheint 2027 im Schwabe Verlag) und baut auf Begriffen aus [*Annetzung: Handeln durch Technologie und Imagination*](https://doi.org/10.24894/978-3-7965-5360-8) (2025) auf, insbesondere dem Begriff der Welttransparenz.
+CLEAR entstammt dem Buch [*Zwischen Prompt und Welt. Über das Leben mit KI*](https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556333-t-20562) von Leonie Gantenbein (erscheint im Dezember 2026 im Schwabe Verlag) und baut auf Begriffen aus [*Annetzung: Handeln durch Technologie und Imagination*](https://doi.org/10.24894/978-3-7965-5360-8) (2025) auf, insbesondere dem Begriff der Welttransparenz.
 
 ## Zitieren
 
