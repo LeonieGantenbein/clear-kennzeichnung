@@ -47,11 +47,11 @@ Axis A names the AI models used and the period of their use. Anyone reading the 
 
 ### R – Responsibility
 
-Axis R records whether a human stands behind the text.
+Axis R makes visible whether a human has checked the text. Responsibility for a statement always remains with whoever makes it, not with the AI.
 
 - **R1** – The text was fully checked and is taken responsibility for by the human.
 - **R2** – The text was spot-checked and is therefore not fully taken responsibility for.
-- **R3** – The text was published unchecked and is no one’s responsibility.
+- **R3** – The text was published unchecked, with the risk of having to take responsibility for it nonetheless.
 
 ## Notation
 

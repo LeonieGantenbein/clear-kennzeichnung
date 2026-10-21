@@ -47,11 +47,11 @@ Die Achse A nennt die verwendeten KI-Modelle und den Zeitraum ihrer Nutzung. Wer
 
 ### R – Responsibility (Rechenschaft)
 
-Die Achse R hält fest, ob ein Mensch für den Text einsteht.
+Die Achse R macht sichtbar, ob ein Mensch den Text geprüft hat. Verantwortlich für eine Aussage bleibt dabei immer, wer sie macht, nicht die KI.
 
 - **R1** – Der Text wurde vollständig geprüft und wird vom Menschen verantwortet.
 - **R2** – Der Text wurde stichprobenartig geprüft und wird daher nicht vollständig verantwortet.
-- **R3** – Der Text wurde ungeprüft veröffentlicht und wird von niemandem verantwortet.
+- **R3** – Der Text wurde ungeprüft veröffentlicht, mit dem Risiko, ihn trotzdem verantworten zu müssen.
 
 ## Notation
 

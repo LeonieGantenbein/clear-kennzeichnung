@@ -1,6 +1,6 @@
 # Factsheet: CLEAR auf einen Blick
 
-Das Factsheet fasst alle Kürzel und Regeln von CLEAR zusammen. Es dient als Nachschlagehilfe und kann einem Sprachmodell als Prompt übergeben werden, damit dieses seine Beteiligung an einem Text nach CLEAR ausweist.
+Das Factsheet fasst alle Kürzel und Regeln auf einer Seite zusammen. Sie können es zum Nachschlagen nutzen oder einem Sprachmodell übergeben, damit es seine Beteiligung an einem Text nach CLEAR vorschlägt.
 
 ## Notation
 
@@ -39,11 +39,11 @@ CLEAR (Rolle): C?, L?, E(p|n)?, A: Modelle, Zeitraum, R?
 | **R** | **Responsibility – Rechenschaft** |
 | R1 | Vollständig geprüft und vom Menschen verantwortet. |
 | R2 | Stichprobenartig geprüft und daher nicht vollständig verantwortet. |
-| R3 | Ungeprüft veröffentlicht und von niemandem verantwortet. |
+| R3 | Ungeprüft veröffentlicht, mit dem Risiko, den Text trotzdem verantworten zu müssen. |
 
 ## Prompt für die Selbstauskunft eines Sprachmodells
 
-Der folgende Text kann am Ende einer Zusammenarbeit in denselben Chat kopiert werden. Das Modell schlägt daraufhin eine Kennzeichnung vor und begründet sie.
+Ein Sprachmodell kann seine Beteiligung selbst vorschlagen. Kopieren Sie dazu den folgenden Text am Ende einer Zusammenarbeit in denselben Chat. Das Modell schlägt dann für C, L, E und A eine Stufe vor und begründet sie; R setzen immer Sie.
 
 ```
 Bitte kennzeichne nach CLEAR, wie du an diesem Text beteiligt warst. Stütze dich ausschliesslich auf unseren bisherigen Chatverlauf.
@@ -62,9 +62,11 @@ Bei L gilt die tiefste Beteiligung, nicht die häufigste. Wenn du eine Stufe aus
 
 ## Grenzen der Selbstauskunft
 
-Eine Selbstauskunft des Modells ist nur aussagekräftig, wenn die gesamte Arbeit mit einem einzigen Sprachmodell in einem einzigen Chatverlauf stattgefunden hat. Nur dann überblickt das Modell den vollständigen Arbeitsprozess. Wurden mehrere Chats, Werkzeuge oder Modelle verwendet, wurde der Text ausserhalb des Chats überarbeitet oder ist der Verlauf so lang, dass frühere Teile nicht mehr erfasst sind, kann das Modell seine Beteiligung nicht vollständig beurteilen. Die Einstufung ist dann von der Person selbst vorzunehmen.
+Ein Modell kann nur beurteilen, was es gesehen hat. Seine Auskunft ist deshalb nur aussagekräftig, wenn die ganze Arbeit mit einem einzigen Sprachmodell in einem einzigen Chat stattgefunden hat.
 
-Auch im günstigsten Fall bleibt die Angabe des Modells ein Vorschlag, den der Mensch prüft und gegebenenfalls korrigiert. Die Rechenschaft (R) kann nur der Mensch übernehmen.
+Haben Sie mehrere Chats, Werkzeuge oder Modelle verwendet, den Text ausserhalb des Chats überarbeitet, oder ist der Verlauf so lang, dass das Modell die Anfänge nicht mehr erfasst, kann es seine Beteiligung nicht vollständig beurteilen. Nehmen Sie die Einstufung dann selbst vor.
+
+Auch im besten Fall bleibt die Angabe des Modells ein Vorschlag, den Sie prüfen und, wo nötig, korrigieren. Die Rechenschaft (R) kann nur ein Mensch übernehmen.
 
 ---
 

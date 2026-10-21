@@ -1,6 +1,6 @@
 # Factsheet: CLEAR at a glance
 
-The factsheet summarises all abbreviations and rules of CLEAR. It serves as a quick reference and can be given to a language model as a prompt so that the model declares its involvement in a text according to CLEAR.
+The factsheet summarises all abbreviations and rules on one page. You can use it for reference or give it to a language model so that it proposes its involvement in a text according to CLEAR.
 
 ## Notation
 
@@ -39,11 +39,11 @@ CLEAR (role): C?, L?, E(p|n)?, A: models, period, R?
 | **R** | **Responsibility – accountability** |
 | R1 | Fully checked and taken responsibility for by the human. |
 | R2 | Spot-checked and therefore not fully taken responsibility for. |
-| R3 | Published unchecked and no one’s responsibility. |
+| R3 | Published unchecked, with the risk of having to take responsibility for the text nonetheless. |
 
 ## Prompt for a language model’s self-declaration
 
-The following text can be copied into the same chat at the end of a collaboration. The model then proposes a label and gives reasons for it.
+A language model can propose its own involvement. To do so, copy the following text into the same chat at the end of a collaboration. The model then proposes a level for C, L, E and A and gives reasons; R is always set by you.
 
 ```
 Please label, according to CLEAR, how you were involved in this text. Base your answer exclusively on our conversation so far.
@@ -62,9 +62,11 @@ For L, the deepest involvement counts, not the most frequent. If you cannot dete
 
 ## Limits of the self-declaration
 
-A model’s self-declaration is only meaningful if the entire work took place with a single language model in a single conversation. Only then does the model have an overview of the complete working process. If several chats, tools or models were used, if the text was revised outside the chat, or if the conversation is so long that earlier parts are no longer taken into account, the model cannot fully assess its involvement. The classification must then be made by the person themselves.
+A model can only assess what it has seen. Its statement is therefore only meaningful if the entire work took place with a single language model in a single chat.
 
-Even in the most favourable case, the model’s statement remains a proposal that the human checks and corrects where necessary. Only the human can take on responsibility (R).
+If you used several chats, tools or models, revised the text outside the chat, or if the conversation is so long that the model no longer takes its beginnings into account, it cannot fully assess its involvement. In that case, make the classification yourself.
+
+Even in the best case, the model’s statement remains a proposal that you check and correct where necessary. Only a human can take on responsibility (R).
 
 ---
 

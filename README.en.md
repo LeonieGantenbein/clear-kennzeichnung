@@ -11,14 +11,29 @@ URL: https://github.com/LeonieGantenbein/clear-kennzeichnung
 
 Deutsche Fassung: [README.md](README.md)
 
-## Overview
+---
 
-CLEAR is a proposal for disclosing the involvement of artificial intelligence in texts voluntarily and in a differentiated way. The blanket label “AI-generated” is replaced by five statements. They record in which stages of the work an AI took part, how far its contribution extends and who stands behind the result. Each person involved makes these statements for their own share. Like a citation, CLEAR is therefore not a judgement but an account of how a text came into being.
+When it comes to writing, the shadow use of AI is widespread – in literature and research as much as on social media and in private life. We generate a text with AI and humanise it – often in emails, too. And in reply, we receive an equally humanised AI text from a colleague. Along the way, we learn what humanising means and what to watch out for: few dashes, no lists of three, no “both … and”.
 
-> **Culture first, then labelling.**<br>
-> A label can only take effect where disclosure is not penalised. As long as an honest statement devalues one’s own text, only those who can afford it will label, and silence remains the rational choice. CLEAR therefore presupposes a cultural understanding that has yet to be reached. → Chapter [“Culture before Labelling”](CULTURE.md)
+But why do we speak of shadow use at all? The word reveals that we regard the use of AI as something better kept hidden. It is usually not forbidden. It is merely considered a flaw.
+
+In the EU, the AI Act ushered in a culture of AI labelling this summer. Since 2 August 2026, deepfakes – deceptively realistic recordings – must be disclosed as artificially generated. This also affects Swiss actors as soon as their content is used in the EU. For texts, the obligation is narrowly defined: an AI-generated text only has to be labelled if it is intended to inform the public on matters of public interest and no human has reviewed it editorially and taken responsibility for it. In the end, the law too asks whether someone stands behind the text.
+
+Public transparency for texts that goes beyond this obligation would be just as important. What if an AI text could simply be labelled, and some people led by example from the start because they are not too proud to say how and where they use AI? And what if this caught on and made it easier for us to assess a text and form an opinion?
+
+Yes, one can lie with a label. But hasn’t that always been the case?
+
+CLEAR is my proposal for disclosing the involvement of artificial intelligence in texts voluntarily and in a differentiated way. Instead of the blanket label “AI-generated”, five short statements record in which stages of the work an AI took part, how far its contribution extends and who stands behind the result. Each person involved makes these statements for their own share.
+
+CLEAR works like a citation: it does not judge; it provides information about how a text came into being.
+
+Responsibility for a statement always lies with whoever makes it, not with the AI. We take responsibility for much of what an AI has contributed, and rightly so, because we are the ones who have to check it. The statement R makes visible whether this check has taken place.
+
+> **Culture first, then labelling.** A label only helps where openness is not penalised. As long as an honest statement devalues one’s own text, only those who can afford it will label. For everyone else, silence remains the reasonable choice. That is why CLEAR needs an understanding of how we want to deal with AI involvement, and this understanding has yet to be reached. More on this in the chapter [“Culture before Labelling”](CULTURE.md).
 
 ## Quick reference
+
+The five statements at a glance:
 
 | Axis | Subject | Levels |
 |---|---|---|
@@ -26,29 +41,39 @@ CLEAR is a proposal for disclosing the involvement of artificial intelligence in
 | **L** – Language | Linguistic editing | L0 without AI · L1 proofreading · L2 stylistic editing · L3 substantive editing (structure and argument) · L4 translation |
 | **E** – Evidence | Sources and how they were processed | E0 without AI · E1 source access · E2 source processing · E3 source interpretation · E4 interpretation of results; suffix (p) published, (n) unpublished material |
 | **A** – Attribution | Declaration of the tools | AI models used and period of use |
-| **R** – Responsibility | Accountability | R1 fully checked and taken responsibility for · R2 spot-checked · R3 unchecked, no one responsible |
+| **R** – Responsibility | Accountability | R1 fully checked and taken responsibility for · R2 spot-checked · R3 published unchecked, with the risk of having to take responsibility for the text nonetheless |
 
-The **highest level reached** is given for each axis; it includes the levels below. Each person involved – such as author, editor or translator – gets a line of their own. The label appears before or after the text.
+For each axis, give the highest level reached; it includes the levels below. If several people are involved, such as author, editor or translator, each gets a line of their own. The label appears before or after the text.
 
-**Example:**
+**Where the label goes.** It is a one-liner and fits anywhere. Place it where information about how a text came into being is expected, so that no one has to search for it:
+
+- Book: in the imprint
+- Article: at the end
+- Post and other short texts: also at the end
+
+**An example.** This is how the text of my book is labelled:
 
 ```
 CLEAR (author): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/2026, R1
 ```
 
-The chapter [“Specification”](SPECIFICATION.md) contains the full description of all levels, guidance on classification and the application in educational institutions.
+The line of thought is mine; the AI was a discussion partner (C1). In the writing, it also intervened in structure and argument (L3) and searched for published sources, which I read myself (E(p)1). Three models were involved between April and September 2026, and I checked every passage and take responsibility for it (R1).
 
-All abbreviations at a glance, together with a prompt that lets a language model declare its own involvement, can be found in the [“Factsheet”](FACTSHEET.en.md).
+All levels in detail, guidance on classification and the application in schools and universities can be found in the chapter [“Specification”](SPECIFICATION.md). The [factsheet](FACTSHEET.en.md) summarises all abbreviations and contains a prompt with which a language model proposes its own involvement.
 
 ## Status
 
-CLEAR is a proposal that has not yet been tested or evaluated in practice, and it is certainly incomplete. Feedback, experience from use and proposals for images, moving images and code are expressly welcome – via the [issues in this repository](https://github.com/LeonieGantenbein/clear-kennzeichnung/issues).
+CLEAR is a proposal. It has not yet been tested or evaluated in practice and is certainly still incomplete. That is precisely why I welcome feedback: experience from use, objections and ideas on how CLEAR could be transferred to images, moving images and code. The best way to reach me is via the [issues in this repository](https://github.com/LeonieGantenbein/clear-kennzeichnung/issues).
 
 ## Origin
 
-CLEAR was developed in the book [*Zwischen Prompt und Welt. Über das Leben mit KI*](https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556333-t-20562) [Between Prompt and World: On Living with AI] by Leonie Gantenbein, forthcoming in December 2026 from Schwabe Verlag. It builds on concepts from [*Annetzung. Handeln durch Technologie und Imagination*](https://doi.org/10.24894/978-3-7965-5360-8) [Acting through Technology and Imagination] (2025), in particular the concept of world transparency (*Welttransparenz*): the claim to know whether one is facing something actual, something computer-generated or something imagined.
+CLEAR emerged in my book [*Zwischen Prompt und Welt. Über das Leben mit KI*](https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556333-t-20562) [Between Prompt and World: On Living with AI], forthcoming on 14 December 2026 from Schwabe Verlag.
+
+CLEAR builds on concepts from my earlier book [*Annetzung. Handeln durch Technologie und Imagination*](https://doi.org/10.24894/978-3-7965-5360-8) [Acting through Technology and Imagination] (Schwabe 2025, open access, funded by the Swiss National Science Foundation), above all the concept of world transparency (*Welttransparenz*): the claim to know whether one is facing something actual, something computer-generated or something imagined.
 
 ## Citation
+
+If you use CLEAR or develop it further, please cite:
 
 Gantenbein, Leonie (2026): CLEAR – Kennzeichnung von KI-Beteiligung an Texten [CLEAR – Labelling AI Involvement in Texts]. Version 1.0. https://github.com/LeonieGantenbein/clear-kennzeichnung
 
@@ -60,6 +85,6 @@ Machine-readable citation: [CITATION.cff](CITATION.cff) (on GitHub via “Cite t
 
 ---
 
-Basis: book text – `CLEAR (author): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/2026, R1`<br>
-Preparation and linguistic revision for this repository (abridgement, restructuring, summary in KULTUR.md) – `CLEAR (author): C2, L3, E(n)2, A: Claude Opus 5.5, 09–10/2026, R1`<br>
+Theory (book text) – `CLEAR (author): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/2026, R1`<br>
+Version in this repository (preparation, abridgement, restructuring, linguistic revision) – `CLEAR (author): C2, L3, E(n)2, A: Claude Opus 5.5, 09–10/2026, R1`<br>
 English translation – `CLEAR (author): C2, L4, E(n)2, A: Claude Opus 5.5, 10/2026, R1`
