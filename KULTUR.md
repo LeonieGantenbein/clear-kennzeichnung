@@ -38,4 +38,4 @@ Wirksam wird CLEAR erst, wenn auch das Fehlen einer Kennzeichnung etwas aussagt.
 
 ---
 
-[Zurück zur Übersicht](README.md) · [Spezifikation](SPEZIFIKATION.md) · [Factsheet](FACTSHEET.md) · English: [CULTURE.md](CULTURE.md)
+[Zurück zur Übersicht](README.md) · [Spezifikation](SPEZIFIKATION.md) · [Beispiele](BEISPIELE.md) · [Factsheet](FACTSHEET.md) · English: [CULTURE.md](CULTURE.md)

@@ -38,4 +38,4 @@ CLEAR only becomes effective once the absence of a label also says something. Th
 
 ---
 
-[Back to the overview](README.en.md) · [Specification](SPECIFICATION.md) · [Factsheet](FACTSHEET.en.md) · Deutsch: [KULTUR.md](KULTUR.md)
+[Back to the overview](README.en.md) · [Specification](SPECIFICATION.md) · [Examples](EXAMPLES.md) · [Factsheet](FACTSHEET.en.md) · Deutsch: [KULTUR.md](KULTUR.md)

@@ -25,7 +25,10 @@ Axis L records how far the AI intervened in the linguistic form of a text.
 - **L1** – Proofreading: the AI corrected spelling, grammar and punctuation.
 - **L2** – Stylistic editing: the AI improved the wording without changing the content.
 - **L3** – Substantive editing: the AI intervened in structure and argument.
-- **L4** – Translation: the text was translated by the AI.
+
+Suffix: **(t)** for a text translated by the AI.
+
+Translation is not a level of its own but an exception indicated by the suffix. It already counts as proofreading: a pure translation by the AI is L(t)1. If the AI also edited the text stylistically or in structure and argument, before or after translating it, the corresponding level is given, for example L(t)3. This keeps translations to a single number per axis as well.
 
 ### E – Evidence
 
@@ -71,6 +74,8 @@ CLEAR (author): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/2026
 
 Reading: The line of thought is the author’s own. The AI served as a sparring partner – it contradicted, asked questions and raised objections, but did not dictate the position (C1). In the writing, its involvement went beyond smoothing and concerned the structure, the arrangement of the arguments and the transitions (L3). The AI researched references; all sources are published and verifiable (E(p)1). Every passage was checked and is taken responsibility for (R1). Several models are named because the text was written over several months.
 
+Further examples from study, research, work, public life and private life, with several contributors, translations and all three levels of R, can be found in the chapter [“Examples”](EXAMPLES.md).
+
 ## Guidance on classification
 
 The boundary between L2 and L3 runs between wording and argument. Anyone who reads a revised text as a whole sees only the result and can no longer distinguish what came from them. The impression that it was merely smoothed therefore leads systematically to too low a classification.
@@ -109,4 +114,4 @@ CLEAR has not yet been tested or evaluated in practice and is certainly incomple
 
 ---
 
-[Back to the overview](README.en.md) · [Culture before Labelling](CULTURE.md) · [Factsheet](FACTSHEET.en.md) · Deutsch: [SPEZIFIKATION.md](SPEZIFIKATION.md)
+[Back to the overview](README.en.md) · [Culture before Labelling](CULTURE.md) · [Examples](EXAMPLES.md) · [Factsheet](FACTSHEET.en.md) · Deutsch: [SPEZIFIKATION.md](SPEZIFIKATION.md)

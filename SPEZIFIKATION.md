@@ -25,7 +25,10 @@ Die Achse L erfasst, wie weit die KI in die sprachliche Gestalt eines Textes ein
 - **L1** – Korrektorat: Die KI hat Rechtschreibung, Grammatik und Zeichensetzung korrigiert.
 - **L2** – Stillektorat: Die KI hat Formulierungen verbessert, ohne den Inhalt zu verändern.
 - **L3** – Tiefenlektorat: Die KI hat in Aufbau und Argumentation eingegriffen.
-- **L4** – Übersetzung: Der Text wurde von der KI übersetzt.
+
+Zusatz: **(t)** für einen von der KI übersetzten Text (translated).
+
+Die Übersetzung ist keine eigene Stufe, sondern eine Ausnahme, die der Zusatz anzeigt. Sie zählt bereits als Korrektorat: Eine reine Übersetzung durch die KI ist L(t)1. Hat die KI den Text zusätzlich stilistisch oder in Aufbau und Argumentation bearbeitet, vor oder nach der Übersetzung, steht die entsprechende Stufe, etwa L(t)3. So bleibt es auch bei Übersetzungen bei einer Zahl pro Achse.
 
 ### E – Evidence (Evidenz)
 
@@ -71,6 +74,8 @@ CLEAR (Autorin): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/202
 
 Lesart: Der Gedankengang ist der eigene. Die KI diente als Sparringpartnerin – sie hat widersprochen, nachgefragt und Einwände formuliert, die Position aber nicht vorgegeben (C1). Beim Schreiben ging ihre Beteiligung über das Glätten hinaus und betraf den Aufbau, die Anordnung der Argumente und die Übergänge (L3). Die KI hat Quellenverweise recherchiert; sämtliche Quellen sind publiziert und nachprüfbar (E(p)1). Jede Stelle wurde geprüft und wird verantwortet (R1). Mehrere Modelle sind genannt, weil der Text über mehrere Monate entstanden ist.
 
+Weitere Beispiele aus Studium, Forschung, Beruf, Öffentlichkeit und Privatleben, mit mehreren Beteiligten, Übersetzungen und allen drei Stufen von R, finden sich im Kapitel [«Beispiele»](BEISPIELE.md).
+
 ## Hinweise zur Einstufung
 
 Die Grenze zwischen L2 und L3 verläuft zwischen Formulierung und Argument. Wer einen überarbeiteten Text als Ganzes liest, sieht nur das Ergebnis und kann nicht mehr unterscheiden, was von ihm selbst stammt. Der Eindruck, es sei lediglich geglättet worden, führt deshalb systematisch zu einer zu niedrigen Einstufung.
@@ -109,4 +114,4 @@ CLEAR ist noch in keiner Praxis erprobt oder evaluiert und mit Sicherheit unvoll
 
 ---
 
-[Zurück zur Übersicht](README.md) · [Kultur vor Kennzeichnung](KULTUR.md) · [Factsheet](FACTSHEET.md) · English: [SPECIFICATION.md](SPECIFICATION.md)
+[Zurück zur Übersicht](README.md) · [Kultur vor Kennzeichnung](KULTUR.md) · [Beispiele](BEISPIELE.md) · [Factsheet](FACTSHEET.md) · English: [SPECIFICATION.md](SPECIFICATION.md)

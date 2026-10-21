@@ -38,7 +38,7 @@ Die fünf Angaben auf einen Blick:
 | Achse | Gegenstand | Stufen |
 |---|---|---|
 | **C** – Conception | Konzeption und Gedankengang | C0 ausschliesslich menschlich · C1 KI als Gesprächspartnerin · C2 einzelne inhaltliche Teile von der KI ausgearbeitet · C3 Inhalt umfassend von der KI erzeugt |
-| **L** – Language | Sprachliche Bearbeitung | L0 ohne KI · L1 Korrektorat · L2 Stillektorat · L3 Tiefenlektorat (Aufbau und Argumentation) · L4 Übersetzung |
+| **L** – Language | Sprachliche Bearbeitung | L0 ohne KI · L1 Korrektorat · L2 Stillektorat · L3 Tiefenlektorat (Aufbau und Argumentation); Zusatz (t) für eine Übersetzung durch die KI |
 | **E** – Evidence | Quellen und ihre Verarbeitung | E0 ohne KI · E1 Quellenzugang · E2 Quellenerschliessung · E3 Quelleninterpretation · E4 Ergebnisinterpretation; Zusatz (p) publiziertes, (n) unpubliziertes Material |
 | **A** – Attribution | Ausweisung der Werkzeuge | eingesetzte KI-Modelle und Zeitraum der Nutzung |
 | **R** – Responsibility | Rechenschaft | R1 vollständig geprüft und verantwortet · R2 stichprobenartig geprüft · R3 ungeprüft veröffentlicht, mit dem Risiko, den Text trotzdem verantworten zu müssen |
@@ -59,7 +59,7 @@ CLEAR (Autorin): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/202
 
 Der Gedankengang ist meiner; die KI war Gesprächspartnerin (C1). Beim Schreiben hat sie auch in Aufbau und Argumentation eingegriffen (L3) und publizierte Quellen gesucht, die ich selbst gelesen habe (E(p)1). Drei Modelle waren zwischen April und September 2026 beteiligt, und ich habe jede Stelle geprüft und verantworte sie (R1).
 
-Alle Stufen im Detail, Hinweise zur Einstufung und die Anwendung in Schulen und Hochschulen finden Sie im Kapitel [«Spezifikation»](SPEZIFIKATION.md). Das [Factsheet](FACTSHEET.md) fasst alle Kürzel zusammen und enthält einen Prompt, mit dem ein Sprachmodell seine eigene Beteiligung vorschlägt.
+Alle Stufen im Detail, Hinweise zur Einstufung und die Anwendung in Schulen und Hochschulen finden Sie im Kapitel [«Spezifikation»](SPEZIFIKATION.md). Im Kapitel [«Beispiele»](BEISPIELE.md) zeigen zwanzig erfundene Fälle aus Studium, Forschung, Beruf, Öffentlichkeit und Privatleben, wie Kennzeichnungen aussehen und wie man sie liest. Das [Factsheet](FACTSHEET.md) fasst alle Kürzel zusammen und enthält einen Prompt, mit dem ein Sprachmodell seine eigene Beteiligung vorschlägt.
 
 ## Status
 

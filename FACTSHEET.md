@@ -26,7 +26,7 @@ CLEAR (Rolle): C?, L?, E(p|n)?, A: Modelle, Zeitraum, R?
 | L1 | Korrektorat: Rechtschreibung, Grammatik und Zeichensetzung. |
 | L2 | Stillektorat: Formulierungen verbessert, Inhalt unverändert. |
 | L3 | Tiefenlektorat: Eingriffe in Aufbau und Argumentation. |
-| L4 | Übersetzung durch die KI. |
+| (t) | Von der KI übersetzt. Eine reine Übersetzung gilt bereits als Korrektorat: L(t)1. |
 | **E** | **Evidence – Quellen und ihre Verarbeitung** |
 | E0 | Quellenzugang und -erschliessung ohne KI. |
 | E1 | Quellenzugang: Die KI findet, beschafft oder übersetzt Quellen; der Mensch liest und deutet sie. |
@@ -51,7 +51,7 @@ Bitte kennzeichne nach CLEAR, wie du an diesem Text beteiligt warst. Stütze dic
 Gib für jede Achse die höchste erreichte Stufe an und begründe sie in einem Satz:
 
 C – Konzeption: C0 Gedankengang ausschliesslich menschlich · C1 KI als Gesprächspartnerin · C2 einzelne inhaltliche Teile von der KI ausgearbeitet · C3 Inhalt umfassend von der KI erzeugt
-L – Sprache: L0 ohne KI · L1 Korrektorat · L2 Stillektorat (Formulierungen, Inhalt unverändert) · L3 Tiefenlektorat (Aufbau und Argumentation) · L4 Übersetzung
+L – Sprache: L0 ohne KI · L1 Korrektorat · L2 Stillektorat (Formulierungen, Inhalt unverändert) · L3 Tiefenlektorat (Aufbau und Argumentation); Zusatz (t), wenn du den Text übersetzt hast (reine Übersetzung: L(t)1)
 E – Evidenz: E0 ohne KI · E1 Quellenzugang (finden, beschaffen, übersetzen) · E2 Quellenerschliessung (Zusammenfassungen ersetzen die Primärquelle) · E3 Quelleninterpretation übernommen · E4 Schluss der KI als Ergebnis übernommen; Zusatz (p) publiziertes, (n) eigenes unpubliziertes Material
 A – Ausweisung: dein Modellname und der Zeitraum unserer Zusammenarbeit
 R – Rechenschaft: Lass R offen. Diese Angabe kann nur der Mensch machen.
@@ -70,4 +70,4 @@ Auch im besten Fall bleibt die Angabe des Modells ein Vorschlag, den Sie prüfen
 
 ---
 
-[Zurück zur Übersicht](README.md) · [Spezifikation](SPEZIFIKATION.md) · [Kultur vor Kennzeichnung](KULTUR.md) · English: [FACTSHEET.en.md](FACTSHEET.en.md)
+[Zurück zur Übersicht](README.md) · [Spezifikation](SPEZIFIKATION.md) · [Kultur vor Kennzeichnung](KULTUR.md) · [Beispiele](BEISPIELE.md) · English: [FACTSHEET.en.md](FACTSHEET.en.md)
