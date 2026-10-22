@@ -25,10 +25,11 @@ Axis L records how far the AI intervened in the linguistic form of a text.
 - **L1** – Proofreading: the AI corrected spelling, grammar and punctuation.
 - **L2** – Stylistic editing: the AI improved the wording without changing the content.
 - **L3** – Substantive editing: the AI intervened in structure and argument.
+- **L4** – Drafting: the AI wrote out the text from content that the human provided or worked out with it.
 
 Suffix: **(t)** for a text translated by the AI.
 
-Translation is not a level of its own but an exception indicated by the suffix. It already counts as proofreading: a pure translation by the AI is L(t)1. If the AI also edited the text stylistically or in structure and argument, before or after translating it, the corresponding level is given, for example L(t)3. This keeps translations to a single number per axis as well.
+Translation is not a level of its own but an exception indicated by the suffix. It already counts as proofreading: a pure translation by the AI is L(t)1. If the AI also edited or drafted the text, before or after translating it, the corresponding level is given, for example L(t)3 or L(t)4. This keeps translations to a single number per axis as well.
 
 ### E – Evidence
 

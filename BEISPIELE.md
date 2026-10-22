@@ -11,24 +11,24 @@ Zwanzig erfundene Beispiele zeigen, wie eine CLEAR-Kennzeichnung in ganz untersc
 | 3 | Ruth, Professorin<br>Andrea, Hilfsassistenz | [Vorlesungsskript Vertragsrecht](#3-vorlesungsskript-ruth-und-andrea) | `C0 · L1 · E0 · R1`<br>`C0 · L0 · E(p)3 · R2` |
 | 4 | Merve, Stationsleiterin | [Patientenmerkblatt](#4-patientenmerkblatt-merve) auf Deutsch<br>auf Portugiesisch<br>auf Tigrinya | `C0 · L2 · E0 · R1`<br>`C0 · L(t)2 · E0 · R1`<br>`C0 · L(t)2 · E0 · R2` |
 | 5 | Nora, Texterin | [Werbekampagne für eine Bäckerei](#5-werbekampagne-nora) | `C2 · L1 · E0 · R1` |
-| 6 | Thanh, Onlinehandel | [400 Produktbeschreibungen](#6-produkttexte-im-onlineshop-thanh) | `C3 · L3 · E(p)2 · R2` |
-| 7 | Dragan, Sachbearbeiter | [Kundenbrief zur Mehrwertsteuer](#7-kundenbrief-im-treuhandbüro-dragan) | `C2 · L2 · E(p)2 · R1` |
-| 8 | Fatima, Präsidentin des Elternrats | [Sitzungsprotokoll](#8-protokoll-des-elternrats-fatima) | `C3 · L3 · E(n)2 · R1` |
+| 6 | Thanh, Onlinehandel | [400 Produktbeschreibungen](#6-produkttexte-im-onlineshop-thanh) | `C3 · L4 · E(p)2 · R2` |
+| 7 | Dragan, Sachbearbeiter | [Kundenbrief zur Mehrwertsteuer](#7-kundenbrief-im-treuhandbüro-dragan) | `C2 · L4 · E(p)2 · R1` |
+| 8 | Fatima, Präsidentin des Elternrats | [Sitzungsprotokoll](#8-protokoll-des-elternrats-fatima) | `C3 · L4 · E(n)2 · R1` |
 | 9 | Gian, Journalist<br>Sascha, Ressortleitung | [Artikel in der Lokalzeitung](#9-lokaljournalismus-gian-und-sascha) | `C0 · L2 · E(p)1 · R1`<br>`C0 · L1 · E0 · R1` |
-| 10 | Daniel, Aktuar eines Turnvereins | [Automatischer Vereinsnewsletter](#10-vereinsnewsletter-daniel) | `C3 · L3 · E(n)2 · R3` |
+| 10 | Daniel, Aktuar eines Turnvereins | [Automatischer Vereinsnewsletter](#10-vereinsnewsletter-daniel) | `C3 · L4 · E(n)2 · R3` |
 | 11 | Lea, Gymnasiastin | [Maturaarbeit über Wildbienen](#11-maturaarbeit-lea) | `C1 · L1 · E(n)1 · R1` |
-| 12 | Samira, Soziologin | [Forschungsgesuch mit Datenmanagementplan](#12-forschungsgesuch-samira) | `C2 · L3 · E(p)4 · R1` |
+| 12 | Samira, Soziologin | [Forschungsgesuch mit Datenmanagementplan](#12-forschungsgesuch-samira) | `C2 · L4 · E(p)4 · R1` |
 | 13 | Ladina, Autorin<br>Beat, Lektor<br>Sophie, Übersetzerin | [Roman](#13-roman-ladina-beat-und-sophie) | `C1 · L1 · E0 · R1`<br>`C0 · L2 · E0 · R1`<br>`C0 · L(t)1 · E0 · R1` |
-| 14 | Urs, Gemeindeschreiber | [Medienmitteilung der Gemeinde](#14-medienmitteilung-der-gemeinde-urs) | `C3 · L3 · E(n)3 · R1` |
+| 14 | Urs, Gemeindeschreiber | [Medienmitteilung der Gemeinde](#14-medienmitteilung-der-gemeinde-urs) | `C3 · L4 · E(n)3 · R1` |
 | 15 | Blerta, Anwältin | [Beschwerde im Baurecht](#15-rechtsschrift-blerta) | `C0 · L3 · E(p)1 · R1` |
-| 16 | Robin, Personalleitung | [Stelleninserat](#16-stelleninserat-robin) | `C2 · L3 · E0 · R1` |
+| 16 | Robin, Personalleitung | [Stelleninserat](#16-stelleninserat-robin) | `C2 · L4 · E0 · R1` |
 | 17 | Marc, Ernährungsberater | [Instagram-Post zu einer Studie](#17-instagram-post-marc) | `C2 · L3 · E(p)3 · R2` |
 | 18 | Sara, Stellensuchende | [Motivationsschreiben](#18-motivationsschreiben-sara) | `C1 · L3 · E0 · R1` |
 | 19 | Peter, Sohn | [Trauerrede für den Vater](#19-trauerrede-peter) | `C0 · L3 · E0 · R1` |
 | 20 | Noa, 11 Jahre<br>Esther, Mutter | [Schulaufsatz](#20-schulaufsatz-noa-und-esther) | `C2 · L0 · E0 · R1 (Esther)`<br>`C0 · L1 · E0 · R1` |
-| 21 | Leonie, Philosophin | [Diese Beispielsammlung](#21-die-beispiele-selbst-leonie) | `C3 · L3 · E0 · R1` |
+| 21 | Leonie, Philosophin | [Diese Beispielsammlung](#21-die-beispiele-selbst-leonie) | `C3 · L4 · E0 · R1` |
 
-Hat die KI einen Text übersetzt, erhält L den Zusatz (t). Eine reine Übersetzung gilt bereits als Korrektorat (L(t)1); hat die KI den Text zusätzlich bearbeitet, steht die höhere Stufe, etwa L(t)3. So bleibt es bei einer Zahl.
+Hat die KI einen Text übersetzt, erhält L den Zusatz (t). Eine reine Übersetzung gilt bereits als Korrektorat (L(t)1); hat die KI den Text zusätzlich bearbeitet oder ausformuliert, steht die höhere Stufe, etwa L(t)3 oder L(t)4. So bleibt es bei einer Zahl.
 
 ## Studium, Forschung und Lehre
 
@@ -104,20 +104,20 @@ CLEAR (Nora): C2, L1, E0, A: ChatGPT (GPT-5), 09/2025, R1
 Thanh führt einen Onlineshop für Velozubehör. Für 400 Produkte lässt Thanh die KI Beschreibungen aus den Datenblättern der Hersteller erstellen. Gelesen hat Thanh vierzig davon.
 
 ```
-CLEAR (Thanh): C3, L3, E(p)2, A: Claude Haiku 4.5, 11/2025, R2
+CLEAR (Thanh): C3, L4, E(p)2, A: Claude Haiku 4.5, 11/2025, R2
 ```
 
-**Lesart:** Die Texte sind umfassend von der KI erzeugt (C3), und zwar aus ihren Zusammenfassungen der Datenblätter (E(p)2). Was die KI dort übersehen hat, fehlt auch in der Beschreibung. R2 sagt offen, dass nur Stichproben geprüft wurden. Für eine falsche Angabe einstehen muss Thanh trotzdem. Die Kennzeichnung steht einmal im Impressum des Shops und gilt für alle Produkttexte.
+**Lesart:** Die Texte sind umfassend von der KI erzeugt und ausformuliert (C3, L4), und zwar aus ihren Zusammenfassungen der Datenblätter (E(p)2). Was die KI dort übersehen hat, fehlt auch in der Beschreibung. R2 sagt offen, dass nur Stichproben geprüft wurden. Für eine falsche Angabe einstehen muss Thanh trotzdem. Die Kennzeichnung steht einmal im Impressum des Shops und gilt für alle Produkttexte.
 
 ### 7. Kundenbrief im Treuhandbüro: Dragan
 
 Dragan arbeitet in einem Treuhandbüro und informiert die Kundschaft über geänderte Regeln bei der Mehrwertsteuer. Er lässt die KI die Mitteilung der Steuerverwaltung zusammenfassen und schreibt den Brief auf dieser Grundlage. Den Abschnitt mit drei Rechenbeispielen entwirft die KI; Dragan rechnet jedes nach. Zum Schluss glättet die KI die Formulierungen.
 
 ```
-CLEAR (Dragan): C2, L2, E(p)2, A: Gemini 2.5 Pro, 07/2025, R1
+CLEAR (Dragan): C2, L4, E(p)2, A: Gemini 2.5 Pro, 07/2025, R1
 ```
 
-**Lesart:** Die Rechenbeispiele sind ein inhaltlicher Teil der KI (C2). Dragan hat mit der Zusammenfassung gearbeitet statt mit der Mitteilung selbst (E(p)2). Weil er jedes Beispiel nachgerechnet hat, verantwortet er den Brief vollständig (R1).
+**Lesart:** Die Rechenbeispiele sind ein inhaltlicher Teil der KI (C2), und sie hat den Abschnitt auch ausformuliert (L4). Dragan hat mit der Zusammenfassung gearbeitet statt mit der Mitteilung selbst (E(p)2). Weil er jedes Beispiel nachgerechnet hat, verantwortet er den Brief vollständig (R1).
 
 ## Öffentlichkeit und Ehrenamt
 
@@ -126,10 +126,10 @@ CLEAR (Dragan): C2, L2, E(p)2, A: Gemini 2.5 Pro, 07/2025, R1
 Fatima ist Präsidentin des Elternrats einer Primarschule. Mit dem Einverständnis aller nimmt sie die Sitzung auf und lässt die KI daraus ein Protokoll erstellen. Danach gleicht sie jeden Punkt mit ihren Notizen ab und korrigiert zwei Namen und einen falsch wiedergegebenen Beschluss.
 
 ```
-CLEAR (Fatima): C3, L3, E(n)2, A: ChatGPT (GPT-4o), 05/2025, R1
+CLEAR (Fatima): C3, L4, E(n)2, A: ChatGPT (GPT-4o), 05/2025, R1
 ```
 
-**Lesart:** Was ins Protokoll kommt und was nicht, hat die KI entschieden (C3). Grundlage ist eine unveröffentlichte Aufnahme (E(n)2). Weil Fatima alles geprüft und korrigiert hat, verantwortet sie das Protokoll vollständig (R1). Gerade beim falsch wiedergegebenen Beschluss zeigt sich, warum R die entscheidende Angabe ist.
+**Lesart:** Was ins Protokoll kommt und was nicht, hat die KI entschieden (C3), und sie hat das Protokoll aus der Aufnahme ausformuliert (L4). Grundlage ist eine unveröffentlichte Aufnahme (E(n)2). Weil Fatima alles geprüft und korrigiert hat, verantwortet sie das Protokoll vollständig (R1). Gerade beim falsch wiedergegebenen Beschluss zeigt sich, warum R die entscheidende Angabe ist.
 
 ### 9. Lokaljournalismus: Gian und Sascha
 
@@ -147,7 +147,7 @@ CLEAR (Sascha): C0, L1, E0, A: DeepL Write, 10/2025, R1
 Daniel ist Aktuar eines Turnvereins und hat eingerichtet, dass eine KI jeden Freitag die Ankündigungen aus dem Vereinschat zu einem Newsletter zusammenfasst und automatisch verschickt. Niemand liest ihn vor dem Versand.
 
 ```
-CLEAR (Daniel): C3, L3, E(n)2, A: GPT-4o mini, seit 06/2025, R3
+CLEAR (Daniel): C3, L4, E(n)2, A: GPT-4o mini, seit 06/2025, R3
 ```
 
 **Lesart:** R3 ist unbequem, aber ehrlich. Der Newsletter geht ungeprüft hinaus, und die Mitglieder wissen, dass sie Termine im Zweifel nachprüfen sollten. Einstehen müssen Daniel und der Verein für einen falschen Termin trotzdem. Die Kennzeichnung steht in der Fusszeile jedes Newsletters.
@@ -169,10 +169,10 @@ CLEAR (Lea): C1, L1, E(n)1, A: ChatGPT (GPT-4o), 03–10/2025, R1
 Samira ist Soziologin und reicht beim Schweizerischen Nationalfonds ein Projekt zum Pendelverhalten nach der Pandemie ein. Die KI wertet publizierte Pendlerstatistiken des Bundesamts für Statistik aus und schliesst daraus, dass Homeoffice das Pendeln auf dem Land stärker verringert hat als in den Städten. Diesen Befund übernimmt Samira als Ausgangslage ihres Projekts. Den Datenmanagementplan entwirft die KI auf Grundlage ihrer Projektbeschreibung; Samira prüft und ergänzt ihn. Den Forschungsplan lässt sie in Aufbau und Argumentation straffen.
 
 ```
-CLEAR (Samira): C2, L3, E(p)4, A: Claude Opus 4.1, Claude Sonnet 4.5, 08–10/2025, R1
+CLEAR (Samira): C2, L4, E(p)4, A: Claude Opus 4.1, Claude Sonnet 4.5, 08–10/2025, R1
 ```
 
-**Lesart:** Wie bei [Kim](#2-fachartikel-mit-eigenen-daten-kim) erscheint ein Schluss der KI als Ergebnis (E4). Hier beruht er aber auf publizierten Daten (p), und die Gutachterinnen und Gutachter können ihn nachprüfen. Den Datenmanagementplan hat die KI als inhaltlichen Teil ausgearbeitet (C2).
+**Lesart:** Wie bei [Kim](#2-fachartikel-mit-eigenen-daten-kim) erscheint ein Schluss der KI als Ergebnis (E4). Hier beruht er aber auf publizierten Daten (p), und die Gutachterinnen und Gutachter können ihn nachprüfen. Den Datenmanagementplan hat die KI als inhaltlichen Teil ausgearbeitet (C2) und aus Samiras Projektbeschreibung ausformuliert (L4).
 
 ### 13. Roman: Ladina, Beat und Sophie
 
@@ -193,7 +193,7 @@ CLEAR (Sophie): C0, L(t)1, E0, A: DeepL, 11/2025–02/2026, R1
 Urs ist Gemeindeschreiber. Der Gemeinderat hat ein neues Parkierungsreglement beschlossen, das noch nicht publiziert ist. Urs lässt die KI aus dem Beschluss eine Medienmitteilung schreiben. Dabei deutet die KI auch, was sich für die Anwohnerinnen und Anwohner ändert, und Urs übernimmt diese Deutung. Er und die zuständige Gemeinderätin prüfen die Mitteilung Satz für Satz.
 
 ```
-CLEAR (Urs): C3, L3, E(n)3, A: ChatGPT (GPT-5), 09/2025, R1
+CLEAR (Urs): C3, L4, E(n)3, A: ChatGPT (GPT-5), 09/2025, R1
 ```
 
 **Lesart:** Die Mitteilung informiert über eine Angelegenheit von öffentlichem Interesse. E(n)3 zeigt, dass die KI die Folgen des Reglements gedeutet hat, und zwar aus einem Dokument, das die Öffentlichkeit noch nicht kennt. Weil jeder Satz geprüft wurde, steht Urs mit R1 dafür ein.
@@ -213,10 +213,10 @@ CLEAR (Blerta): C0, L3, E(p)1, A: ChatGPT (GPT-5), 11/2025, R1
 Robin leitet die Personalabteilung eines Maschinenbauunternehmens. Für eine Stelle in der Logistik gibt Robin der KI die Anforderungen in Stichworten. Die KI schreibt daraus das Inserat und ergänzt einen Abschnitt «Was wir bieten». Robin gleicht diesen Abschnitt mit den tatsächlichen Anstellungsbedingungen ab und streicht zwei Versprechen.
 
 ```
-CLEAR (Robin): C2, L3, E0, A: ChatGPT (GPT-4o), 04/2025, R1
+CLEAR (Robin): C2, L4, E0, A: ChatGPT (GPT-4o), 04/2025, R1
 ```
 
-**Lesart:** Die Anforderungen stammen von Robin, den Abschnitt zu den Leistungen hat die KI ausgearbeitet (C2). Gerade dort lag das Risiko: Ein Versprechen, das der Betrieb nicht hält, hätte Robin verantworten müssen.
+**Lesart:** Die Anforderungen stammen von Robin, den Abschnitt zu den Leistungen hat die KI ausgearbeitet (C2). Das ganze Inserat hat die KI aus Robins Stichworten ausformuliert (L4). Gerade dort lag das Risiko: Ein Versprechen, das der Betrieb nicht hält, hätte Robin verantworten müssen.
 
 ### 17. Instagram-Post: Marc
 
@@ -270,10 +270,10 @@ CLEAR (Esther): C0, L1, E0, A: ChatGPT (GPT-5), 08/2025, R1
 Leonie hat CLEAR entwickelt und wollte Beispiele aus möglichst vielen Lebensbereichen. Sie hat die Sparten vorgegeben, Namen und Modelle korrigieren lassen und eigene Fälle eingebracht, etwa das Kind, für das die Mutter einsteht. Die Fälle selbst, die Kennzeichnungen und die Lesarten hat die KI auf Grundlage von Leonies Spezifikation erfunden und formuliert. Leonie hat sie im Gespräch geprüft und mehrfach überarbeiten lassen.
 
 ```
-CLEAR (Leonie Gantenbein): C3, L3, E0, A: Claude Opus 5.5, 10/2026, R1
+CLEAR (Leonie Gantenbein): C3, L4, E0, A: Claude Opus 5.5, 10/2026, R1
 ```
 
-**Lesart:** Der Inhalt ist umfassend von der KI erzeugt (C3), auch wenn Rahmen und einzelne Ideen von Leonie stammen. Formulierung und Aufbau stammen ebenfalls von der KI (L3). E0 steht, weil die Beispiele auf Leonies eigener Spezifikation beruhen; die KI stand nicht zwischen ihr und fremdem Material. Welche Modelle wann verfügbar waren, stammt allerdings aus dem Wissen der KI und nicht aus einer Quelle. Die Kennzeichnung hat die KI selbst vorgeschlagen, wie es der Prompt im [Factsheet](FACTSHEET.md#prompt-für-die-selbstauskunft-eines-sprachmodells) vorsieht. R1 hat Leonie selbst gesetzt, nachdem sie alles geprüft hat, denn diese Angabe kann nur der Mensch machen.
+**Lesart:** Der Inhalt ist umfassend von der KI erzeugt (C3), auch wenn Rahmen und einzelne Ideen von Leonie stammen. Formulierung und Aufbau stammen ebenfalls von der KI (L4). E0 steht, weil die Beispiele auf Leonies eigener Spezifikation beruhen; die KI stand nicht zwischen ihr und fremdem Material. Welche Modelle wann verfügbar waren, stammt allerdings aus dem Wissen der KI und nicht aus einer Quelle. Die Kennzeichnung hat die KI selbst vorgeschlagen, wie es der Prompt im [Factsheet](FACTSHEET.md#prompt-für-die-selbstauskunft-eines-sprachmodells) vorsieht. R1 hat Leonie selbst gesetzt, nachdem sie alles geprüft hat, denn diese Angabe kann nur der Mensch machen.
 
 ---
 

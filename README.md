@@ -38,7 +38,7 @@ Die fünf Angaben auf einen Blick:
 | Achse | Gegenstand | Stufen |
 |---|---|---|
 | **C** – Conception | Konzeption und Gedankengang | C0 ausschliesslich menschlich · C1 KI als Gesprächspartnerin · C2 einzelne inhaltliche Teile von der KI ausgearbeitet · C3 Inhalt umfassend von der KI erzeugt |
-| **L** – Language | Sprachliche Bearbeitung | L0 ohne KI · L1 Korrektorat · L2 Stillektorat · L3 Tiefenlektorat (Aufbau und Argumentation); Zusatz (t) für eine Übersetzung durch die KI |
+| **L** – Language | Sprachliche Bearbeitung | L0 ohne KI · L1 Korrektorat · L2 Stillektorat · L3 Tiefenlektorat (Aufbau und Argumentation) · L4 Ausformulierung; Zusatz (t) für eine Übersetzung durch die KI |
 | **E** – Evidence | Quellen und ihre Verarbeitung | E0 ohne KI · E1 Quellenzugang · E2 Quellenerschliessung · E3 Quelleninterpretation · E4 Ergebnisinterpretation; Zusatz (p) publiziertes, (n) unpubliziertes Material |
 | **A** – Attribution | Ausweisung der Werkzeuge | eingesetzte KI-Modelle und Zeitraum der Nutzung |
 | **R** – Responsibility | Rechenschaft | R1 vollständig geprüft und verantwortet · R2 stichprobenartig geprüft · R3 ungeprüft veröffentlicht, mit dem Risiko, den Text trotzdem verantworten zu müssen |

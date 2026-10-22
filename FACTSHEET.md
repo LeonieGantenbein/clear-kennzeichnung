@@ -26,6 +26,7 @@ CLEAR (Rolle): C?, L?, E(p|n)?, A: Modelle, Zeitraum, R?
 | L1 | Korrektorat: Rechtschreibung, Grammatik und Zeichensetzung. |
 | L2 | Stillektorat: Formulierungen verbessert, Inhalt unverändert. |
 | L3 | Tiefenlektorat: Eingriffe in Aufbau und Argumentation. |
+| L4 | Ausformulierung: Die KI formuliert den Text aus Inhalten, die der Mensch vorgegeben oder mit ihr erarbeitet hat. |
 | (t) | Von der KI übersetzt. Eine reine Übersetzung gilt bereits als Korrektorat: L(t)1. |
 | **E** | **Evidence – Quellen und ihre Verarbeitung** |
 | E0 | Quellenzugang und -erschliessung ohne KI. |
@@ -51,7 +52,7 @@ Bitte kennzeichne nach CLEAR, wie du an diesem Text beteiligt warst. Stütze dic
 Gib für jede Achse die höchste erreichte Stufe an und begründe sie in einem Satz:
 
 C – Konzeption: C0 Gedankengang ausschliesslich menschlich · C1 KI als Gesprächspartnerin · C2 einzelne inhaltliche Teile von der KI ausgearbeitet · C3 Inhalt umfassend von der KI erzeugt
-L – Sprache: L0 ohne KI · L1 Korrektorat · L2 Stillektorat (Formulierungen, Inhalt unverändert) · L3 Tiefenlektorat (Aufbau und Argumentation); Zusatz (t), wenn du den Text übersetzt hast (reine Übersetzung: L(t)1)
+L – Sprache: L0 ohne KI · L1 Korrektorat · L2 Stillektorat (Formulierungen, Inhalt unverändert) · L3 Tiefenlektorat (Aufbau und Argumentation) · L4 Ausformulierung (Text aus vorgegebenen oder gemeinsam erarbeiteten Inhalten formuliert); Zusatz (t), wenn du den Text übersetzt hast (reine Übersetzung: L(t)1)
 E – Evidenz: E0 ohne KI · E1 Quellenzugang (finden, beschaffen, übersetzen) · E2 Quellenerschliessung (Zusammenfassungen ersetzen die Primärquelle) · E3 Quelleninterpretation übernommen · E4 Schluss der KI als Ergebnis übernommen; Zusatz (p) publiziertes, (n) eigenes unpubliziertes Material
 A – Ausweisung: dein Modellname und der Zeitraum unserer Zusammenarbeit
 R – Rechenschaft: Lass R offen. Diese Angabe kann nur der Mensch machen.

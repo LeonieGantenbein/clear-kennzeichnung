@@ -25,10 +25,11 @@ Die Achse L erfasst, wie weit die KI in die sprachliche Gestalt eines Textes ein
 - **L1** – Korrektorat: Die KI hat Rechtschreibung, Grammatik und Zeichensetzung korrigiert.
 - **L2** – Stillektorat: Die KI hat Formulierungen verbessert, ohne den Inhalt zu verändern.
 - **L3** – Tiefenlektorat: Die KI hat in Aufbau und Argumentation eingegriffen.
+- **L4** – Ausformulierung: Die KI hat den Text aus Inhalten ausformuliert, die der Mensch vorgegeben oder mit ihr erarbeitet hat.
 
 Zusatz: **(t)** für einen von der KI übersetzten Text (translated).
 
-Die Übersetzung ist keine eigene Stufe, sondern eine Ausnahme, die der Zusatz anzeigt. Sie zählt bereits als Korrektorat: Eine reine Übersetzung durch die KI ist L(t)1. Hat die KI den Text zusätzlich stilistisch oder in Aufbau und Argumentation bearbeitet, vor oder nach der Übersetzung, steht die entsprechende Stufe, etwa L(t)3. So bleibt es auch bei Übersetzungen bei einer Zahl pro Achse.
+Die Übersetzung ist keine eigene Stufe, sondern eine Ausnahme, die der Zusatz anzeigt. Sie zählt bereits als Korrektorat: Eine reine Übersetzung durch die KI ist L(t)1. Hat die KI den Text zusätzlich bearbeitet oder ausformuliert, vor oder nach der Übersetzung, steht die entsprechende Stufe, etwa L(t)3 oder L(t)4. So bleibt es auch bei Übersetzungen bei einer Zahl pro Achse.
 
 ### E – Evidence (Evidenz)
 
