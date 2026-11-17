@@ -61,6 +61,10 @@ Der Gedankengang ist meiner; die KI war Gesprächspartnerin (C1). Beim Schreiben
 
 Alle Stufen im Detail, Hinweise zur Einstufung und die Anwendung in Schulen und Hochschulen finden Sie im Kapitel [«Spezifikation»](SPEZIFIKATION.md). Im Kapitel [«Beispiele»](BEISPIELE.md) zeigen zwanzig erfundene Fälle aus Studium, Forschung, Beruf, Öffentlichkeit und Privatleben, wie Kennzeichnungen aussehen und wie man sie liest. Das [Factsheet](FACTSHEET.md) fasst alle Kürzel zusammen und enthält einen Prompt, mit dem ein Sprachmodell seine eigene Beteiligung vorschlägt.
 
+## Für die Forschung
+
+CLEAR kennzeichnet Texte. Wie KI in einem Forschungsprozess mit Daten und Code gearbeitet hat, etwa beim Transkribieren, Kodieren, Programmieren oder beim Training eines Modells, hält [PISCATOR](https://github.com/LeonieGantenbein/piscator-kennzeichnung) fest. Wer wissenschaftlich publiziert, gibt beide Angaben an: PISCATOR für den Forschungsprozess, CLEAR für den Text.
+
 ## Status
 
 CLEAR ist ein Vorschlag. Er wurde noch in keiner Praxis erprobt oder ausgewertet und ist sicher noch unvollständig. Gerade deshalb freue ich mich über Rückmeldungen: Erfahrungen aus der Anwendung, Einwände und Ideen, wie sich CLEAR auf Bilder, Bewegtbilder und Code übertragen liesse. Am besten erreichen Sie mich über die [Issues dieses Repositorys](https://github.com/LeonieGantenbein/clear-kennzeichnung/issues).

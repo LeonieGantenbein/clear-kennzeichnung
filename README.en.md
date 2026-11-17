@@ -61,6 +61,10 @@ The line of thought is mine; the AI was a discussion partner (C1). In the writin
 
 All levels in detail, guidance on classification and the application in schools and universities can be found in the chapter [“Specification”](SPECIFICATION.md). In the chapter [“Examples”](EXAMPLES.md), twenty invented cases from study, research, work, public life and private life show what labels look like and how to read them. The [factsheet](FACTSHEET.en.md) summarises all abbreviations and contains a prompt with which a language model proposes its own involvement.
 
+## For research
+
+CLEAR labels texts. How AI worked with data and code in a research process, for example in transcribing, coding, programming or training a model, is recorded by [PISCATOR](https://github.com/LeonieGantenbein/piscator-kennzeichnung). Anyone publishing research gives both statements: PISCATOR for the research process, CLEAR for the text.
+
 ## Status
 
 CLEAR is a proposal. It has not yet been tested or evaluated in practice and is certainly still incomplete. That is precisely why I welcome feedback: experience from use, objections and ideas on how CLEAR could be transferred to images, moving images and code. The best way to reach me is via the [issues in this repository](https://github.com/LeonieGantenbein/clear-kennzeichnung/issues).
