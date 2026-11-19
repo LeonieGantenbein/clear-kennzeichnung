@@ -3,6 +3,7 @@ message: "Wenn Sie CLEAR verwenden oder darauf verweisen, zitieren Sie es bitte 
 title: "CLEAR – Kennzeichnung von KI-Beteiligung an Texten"
 type: dataset
 version: "1.0"
+doi: 10.5281/zenodo.24372561
 license: CC-BY-4.0
 url: "https://github.com/LeonieGantenbein/clear-kennzeichnung"
 repository-code: "https://github.com/LeonieGantenbein/clear-kennzeichnung"
@@ -32,6 +33,9 @@ preferred-citation:
       given-names: Leonie
   year: 2026
   version: "1.0"
+  doi: 10.5281/zenodo.24372561
+  publisher:
+    name: Zenodo
   url: "https://github.com/LeonieGantenbein/clear-kennzeichnung"
 references:
   - type: book

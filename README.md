@@ -7,7 +7,8 @@
 Leonie Gantenbein · Version 1.0 · 2026
 
 Lizenz: [CC BY 4.0](LICENSE.md) – frei nutzbar und veränderbar unter Namensnennung der Urheberin.<br>
-URL: https://github.com/LeonieGantenbein/clear-kennzeichnung
+URL: https://github.com/LeonieGantenbein/clear-kennzeichnung<br>
+DOI: [10.5281/zenodo.24372561](https://doi.org/10.5281/zenodo.24372561)
 
 English version: [README.en.md](README.en.md)
 
@@ -111,9 +112,9 @@ CLEAR knüpft an Begriffe aus meinem früheren Buch [*Annetzung. Handeln durch T
 
 ## Zitieren
 
-Wenn Sie CLEAR verwenden oder weiterentwickeln, zitieren Sie bitte die aktuelle Online-Fassung und das Buch, in dem CLEAR beschrieben wird:
+Wenn Sie CLEAR verwenden oder weiterentwickeln, zitieren Sie bitte diese Fassung und das Buch, in dem CLEAR beschrieben wird:
 
-Gantenbein, Leonie (2026): CLEAR – Kennzeichnung von KI-Beteiligung an Texten. Version 1.0. https://github.com/LeonieGantenbein/clear-kennzeichnung
+Gantenbein, Leonie (2026): CLEAR – Kennzeichnung von KI-Beteiligung an Texten. Version 1.0. Zenodo. https://doi.org/10.5281/zenodo.24372561
 
 Gantenbein, Leonie (2026): Zwischen Prompt und Welt. Über das Leben mit KI. Basel: Schwabe Verlag. https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556326-t-20563
 
