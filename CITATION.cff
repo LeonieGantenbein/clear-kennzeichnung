@@ -33,3 +33,15 @@ preferred-citation:
   year: 2026
   version: "1.0"
   url: "https://github.com/LeonieGantenbein/clear-kennzeichnung"
+references:
+  - type: book
+    title: "Zwischen Prompt und Welt. Über das Leben mit KI"
+    authors:
+      - family-names: Gantenbein
+        given-names: Leonie
+    year: 2026
+    publisher:
+      name: "Schwabe Verlag"
+      city: Basel
+    isbn: "978-3-7965-5632-6"
+    url: "https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556326-t-20563"

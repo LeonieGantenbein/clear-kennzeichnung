@@ -29,7 +29,13 @@ CLEAR funktioniert wie eine Quellenangabe: Es bewertet nicht, es gibt Auskunft d
 
 Verantwortlich für eine Aussage bleibt immer, wer sie macht, nicht die KI. Wir übernehmen Verantwortung für vieles, was eine KI beigetragen hat, und das sollen wir auch, denn wir sind es, die es prüfen müssen. Die Angabe R macht sichtbar, ob diese Prüfung stattgefunden hat.
 
-> **Zuerst die Kultur, dann die Kennzeichnung.** Eine Kennzeichnung hilft nur dort, wo Offenheit nicht bestraft wird. Solange eine ehrliche Angabe den eigenen Text abwertet, kennzeichnet nur, wer es sich leisten kann. Für alle anderen bleibt Schweigen die vernünftige Wahl. Deshalb braucht CLEAR eine Verständigung darüber, wie wir mit KI-Beteiligung umgehen wollen, und diese Verständigung steht noch aus. Mehr dazu im Kapitel [«Kultur vor Kennzeichnung»](KULTUR.md).
+## Kultur vor Kennzeichnung
+
+Eine Kennzeichnung hilft nur dort, wo Offenheit nicht bestraft wird. Solange eine ehrliche Angabe den eigenen Text abwertet, kennzeichnet nur, wer es sich leisten kann. Für alle anderen bleibt Schweigen die vernünftige Wahl. Deshalb braucht CLEAR eine Verständigung darüber, wie wir mit KI-Beteiligung umgehen wollen, und diese Verständigung steht noch aus.
+
+Den ersten Schritt könnte die Wissenschaft machen. Sie ist seit langem führend darin, offenzulegen, wie eine Aussage zustande gekommen ist, und sich der Kritik zu stellen. Quellenangaben, Methodenteil und Begutachtung gehören zu ihrem Selbstverständnis. Angaben zu Interessenkonflikten oder zu den Beiträgen der einzelnen Autorinnen und Autoren sind in vielen Fächern längst Routine. Die meisten dieser Regeln hat sich die Forschung selbst gegeben, weil Aussagen überprüfbar sein müssen. Wer wissenschaftlich schreibt und offenlegt, wie eine KI am Text beteiligt war, setzt diese Tradition fort. Hochschulen, Zeitschriften und Verlage, die das vorleben, zeigen auch anderen Bereichen, dass Offenheit kein Makel ist.
+
+Wirksam wird CLEAR erst, wenn auch das Fehlen einer Kennzeichnung etwas aussagt. Was sich dafür kulturell verändern muss, beschreibt das Kapitel [«Kultur vor Kennzeichnung»](KULTUR.md).
 
 ## Kurzreferenz
 
@@ -61,9 +67,37 @@ Der Gedankengang ist meiner; die KI war Gesprächspartnerin (C1). Beim Schreiben
 
 Alle Stufen im Detail, Hinweise zur Einstufung und die Anwendung in Schulen und Hochschulen finden Sie im Kapitel [«Spezifikation»](SPEZIFIKATION.md). Im Kapitel [«Beispiele»](BEISPIELE.md) zeigen zwanzig erfundene Fälle aus Studium, Forschung, Beruf, Öffentlichkeit und Privatleben, wie Kennzeichnungen aussehen und wie man sie liest. Das [Factsheet](FACTSHEET.md) fasst alle Kürzel zusammen und enthält einen Prompt, mit dem ein Sprachmodell seine eigene Beteiligung vorschlägt.
 
+## Was Institutionen einfordern können
+
+CLEAR ist zuerst eine Selbstauskunft. Es lässt sich aber auch umkehren: Wer Texte entgegennimmt, kann mit denselben fünf Angaben festlegen, was erwartet wird. Schulen, Hochschulen, Institute, Redaktionen und Verlage erhalten damit eine Sprache, die ihnen bislang fehlt. Statt Werkzeuge zu verbieten, benennen sie Stufen.
+
+**Schule und Hochschule.** Für Maturaarbeiten und Abschlussarbeiten liegt ein Profil nahe, wie es die Spezifikation vorschlägt. R1 ist verbindlich, denn die Angabe wirkt gleichsam wie eine Unterschrift. Der Gedankengang ist genau die Leistung, die geprüft wird, deshalb höchstens C1. Bei der Sprache genügt in der Regel L2, in schreibintensiven Fächern allenfalls L3. Und weil Quellenkritik das Handwerk ist, das eine solche Arbeit unter Beweis stellen soll, darf die KI Quellen suchen, aber nicht erschliessen oder deuten (E1).
+
+**Institut und Forschungsgruppe.** Ein Institut kann festlegen, dass Berichte, Anträge und Publikationen eine CLEAR-Zeile tragen und dass alles, was nach aussen geht, geprüft und verantwortet ist (R1). Höhere Stufen bei L oder C sind dann kein Problem, solange sie ausgewiesen sind. Für empirische Arbeiten kommt PISCATOR dazu.
+
+**Verlag und Redaktion.** In den Hinweisen für Autorinnen und Autoren kann stehen, wo die CLEAR-Zeile hingehört und dass R1 Voraussetzung für die Annahme ist. Bei E3 und E4, wenn eine KI Quellen oder Ergebnisse gedeutet hat, kann ein Verlag eine kurze Erläuterung im Text verlangen. Bei Übersetzungen (t) erhält auch die Person eine eigene Zeile, die die Übersetzung geprüft hat.
+
+Für alle gilt: Wer Offenlegung verlangt, darf sie nicht bestrafen. Eine ausgewiesene L3 ist besser als eine verschwiegene. Ganze Chatverläufe einzufordern, schafft Bürokratie, ohne die Beurteilung zu erleichtern. Am meisten bewirkt eine Institution, wenn Lehrende, Herausgeberinnen und Lektoren ihre eigenen Texte kennzeichnen.
+
 ## Für die Forschung
 
 CLEAR kennzeichnet Texte. Wie KI in einem Forschungsprozess mit Daten und Code gearbeitet hat, etwa beim Transkribieren, Kodieren, Programmieren oder beim Training eines Modells, hält [PISCATOR](https://github.com/LeonieGantenbein/piscator-kennzeichnung) fest. Wer wissenschaftlich publiziert, gibt beide Angaben an: PISCATOR für den Forschungsprozess, CLEAR für den Text.
+
+## Kritische Einwände
+
+Gegen CLEAR lassen sich berechtigte Einwände vorbringen. Die wichtigsten sind hier mit einer Antwort versammelt.
+
+**«Man kann mit einer Kennzeichnung lügen.»** Ja, so wie man Quellen erfinden oder fremde Texte als eigene ausgeben kann. Trotzdem verzichtet niemand auf Quellenangaben. Ihr Wert liegt darin, dass sie Verantwortung zuordnen und sich überprüfen lassen. Eine falsche Angabe lässt sich beanstanden, Schweigen nicht.
+
+**«KI ist ein Werkzeug wie die Rechtschreibprüfung. Das kennzeichnet auch niemand.»** Für die Rechtschreibprüfung gibt es L1. Eine KI kann aber auch Aufbau, Argumente und Quellen beeinflussen, und genau dort will man beim Lesen wissen, woran man ist. CLEAR macht diesen Unterschied sichtbar, statt alles unter «KI» zusammenzufassen.
+
+**«Die Stufen sind unscharf.»** Wo endet ein Stillektorat, wo beginnt ein Tiefenlektorat? Die Grenze verlangt ein Urteil. Die Spezifikation empfiehlt deshalb, KI-Überarbeitungen im Korrekturmodus vorzunehmen; dann zeigt sich die tiefste Änderung. Massgebend ist die tiefste Beteiligung, nicht die häufigste.
+
+**«Kennzeichnung stigmatisiert.»** Solange es nur das Etikett «KI-generiert» gibt, ist das so. CLEAR ersetzt es durch Unterscheidungen. Wer L1 angibt, sagt etwas ganz anderes als jemand, der C3 angibt.
+
+**«Das ist zu aufwendig.»** Die Kennzeichnung ist eine Zeile. Mit dem Prompt im Factsheet schlägt ein Sprachmodell seine eigene Beteiligung vor; prüfen und verantworten muss sie der Mensch.
+
+**«Mit den Modellen veraltet die Kennzeichnung.»** Die Achsen beschreiben Arbeitsschritte, keine Produkte. Welche Modelle beteiligt waren, steht bei A und darf sich ändern.
 
 ## Status
 
@@ -71,15 +105,17 @@ CLEAR ist ein Vorschlag. Er wurde noch in keiner Praxis erprobt oder ausgewertet
 
 ## Herkunft
 
-CLEAR ist in meinem Buch [*Zwischen Prompt und Welt. Über das Leben mit KI*](https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556333-t-20562) entstanden (erscheint am 14. Dezember 2026 beim Schwabe Verlag).
+CLEAR wird in meinem Buch [*Zwischen Prompt und Welt. Über das Leben mit KI*](https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556326-t-20563) (erscheint am 14. Dezember 2026 beim Schwabe Verlag) ebenfalls beschrieben. Die aktualisierte Fassung ist jedoch jeweils online, da sie sich stets weiterentwickelt.
 
 CLEAR knüpft an Begriffe aus meinem früheren Buch [*Annetzung. Handeln durch Technologie und Imagination*](https://doi.org/10.24894/978-3-7965-5360-8) an (Schwabe 2025, Open Access, gefördert vom Schweizerischen Nationalfonds), vor allem an den Begriff der Welttransparenz: den Anspruch, zu wissen, ob einem Tatsächliches, Computergeneriertes oder Imaginiertes gegenübertritt.
 
 ## Zitieren
 
-Wenn Sie CLEAR verwenden oder weiterentwickeln, zitieren Sie bitte:
+Wenn Sie CLEAR verwenden oder weiterentwickeln, zitieren Sie bitte die aktuelle Online-Fassung und das Buch, in dem CLEAR beschrieben wird:
 
 Gantenbein, Leonie (2026): CLEAR – Kennzeichnung von KI-Beteiligung an Texten. Version 1.0. https://github.com/LeonieGantenbein/clear-kennzeichnung
+
+Gantenbein, Leonie (2026): Zwischen Prompt und Welt. Über das Leben mit KI. Basel: Schwabe Verlag. https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556326-t-20563
 
 Maschinenlesbare Zitierangaben: [CITATION.cff](CITATION.cff) (auf GitHub über «Cite this repository»)
 
@@ -89,5 +125,5 @@ Maschinenlesbare Zitierangaben: [CITATION.cff](CITATION.cff) (auf GitHub über �
 
 ---
 
-Theorie (Buchtext) – `CLEAR (Autorin): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/2026, R1`<br>
-Fassung dieses Repositorys (Aufbereitung, Kürzung, Umstrukturierung, sprachliche Überarbeitung) – `CLEAR (Autorin): C2, L3, E(n)2, A: Claude Opus 5.5, 09–10/2026, R1`
+Theorie (Buchtext) – `CLEAR (Leonie Gantenbein): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/2026, R1`<br>
+Fassung dieses Repositorys (Aufbereitung, Kürzung, Umstrukturierung, sprachliche Überarbeitung) – `CLEAR (Leonie Gantenbein): C1, L3, E(n)2, A: Claude Opus 5.5, 09–11/2026, R1`

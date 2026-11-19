@@ -29,7 +29,13 @@ CLEAR works like a citation: it does not judge; it provides information about ho
 
 Responsibility for a statement always lies with whoever makes it, not with the AI. We take responsibility for much of what an AI has contributed, and rightly so, because we are the ones who have to check it. The statement R makes visible whether this check has taken place.
 
-> **Culture first, then labelling.** A label only helps where openness is not penalised. As long as an honest statement devalues one’s own text, only those who can afford it will label. For everyone else, silence remains the reasonable choice. That is why CLEAR needs an understanding of how we want to deal with AI involvement, and this understanding has yet to be reached. More on this in the chapter [“Culture before Labelling”](CULTURE.md).
+## Culture before labelling
+
+A label only helps where openness is not penalised. As long as an honest statement devalues one’s own text, only those who can afford it will label. For everyone else, silence remains the reasonable choice. That is why CLEAR needs an understanding of how we want to deal with AI involvement, and this understanding is still lacking.
+
+Science could take the first step. It has long led the way in disclosing how a statement came about and in exposing itself to criticism. References, methods sections and peer review are part of its self-understanding. Statements on conflicts of interest or on the contributions of individual authors have long been routine in many disciplines. Research has given itself most of these rules because statements must be verifiable. Anyone who writes academically and discloses how an AI was involved in the text continues this tradition. Universities, journals and publishers that set this example also show other fields that openness is no stigma.
+
+CLEAR only becomes effective when the absence of a label also says something. The chapter [“Culture before Labelling”](CULTURE.md) describes what needs to change culturally.
 
 ## Quick reference
 
@@ -61,9 +67,37 @@ The line of thought is mine; the AI was a discussion partner (C1). In the writin
 
 All levels in detail, guidance on classification and the application in schools and universities can be found in the chapter [“Specification”](SPECIFICATION.md). In the chapter [“Examples”](EXAMPLES.md), twenty invented cases from study, research, work, public life and private life show what labels look like and how to read them. The [factsheet](FACTSHEET.en.md) summarises all abbreviations and contains a prompt with which a language model proposes its own involvement.
 
+## What institutions can require
+
+CLEAR is first of all a self-declaration. But it can also be reversed: anyone who receives texts can use the same five statements to specify what is expected. Schools, universities, institutes, editorial offices and publishers thus gain a language they have so far lacked. Instead of banning tools, they name levels.
+
+**Schools and universities.** For final school projects and theses, a profile like the one proposed in the specification suggests itself. R1 is mandatory, because the statement works almost like a signature. The line of thought is precisely the achievement being assessed, hence at most C1. For language, L2 is usually sufficient, in writing-intensive subjects possibly L3. And because source criticism is the craft such a piece of work is meant to demonstrate, the AI may find sources but not process or interpret them (E1).
+
+**Institutes and research groups.** An institute can specify that reports, proposals and publications carry a CLEAR line and that everything that goes out is checked and taken responsibility for (R1). Higher levels for L or C are then no problem, as long as they are declared. For empirical work, PISCATOR is added.
+
+**Publishers and editorial offices.** Author guidelines can state where the CLEAR line belongs and that R1 is a condition for acceptance. For E3 and E4, when an AI has interpreted sources or results, a publisher can ask for a brief explanation in the text. For translations (t), the person who checked the translation also gets a line of their own.
+
+For everyone, the following applies: whoever requires disclosure must not penalise it. A declared L3 is better than a concealed one. Demanding entire chat histories creates bureaucracy without making assessment any easier. An institution achieves most when teachers, editors and copy-editors label their own texts.
+
 ## For research
 
 CLEAR labels texts. How AI worked with data and code in a research process, for example in transcribing, coding, programming or training a model, is recorded by [PISCATOR](https://github.com/LeonieGantenbein/piscator-kennzeichnung). Anyone publishing research gives both statements: PISCATOR for the research process, CLEAR for the text.
+
+## Critical objections
+
+There are legitimate objections to CLEAR. The most important ones are collected here, each with a reply.
+
+**“You can lie with a label.”** Yes, just as you can invent sources or pass off someone else’s text as your own. Still, no one does without references. Their value lies in assigning responsibility and in being verifiable. A false statement can be challenged; silence cannot.
+
+**“AI is a tool like a spell checker. Nobody labels that either.”** For spell checking there is L1. But an AI can also influence structure, arguments and sources, and that is exactly where readers want to know where they stand. CLEAR makes this difference visible instead of lumping everything together as “AI”.
+
+**“The levels are fuzzy.”** Where does stylistic editing end and substantive editing begin? The boundary requires judgement. The specification therefore recommends having AI revisions made in track-changes mode; the deepest change then becomes apparent. What counts is the deepest involvement, not the most frequent.
+
+**“Labelling stigmatises.”** As long as there is only the label “AI-generated”, it does. CLEAR replaces it with distinctions. Declaring L1 says something entirely different from declaring C3.
+
+**“This is too much effort.”** The label is one line. With the prompt in the factsheet, a language model proposes its own involvement; checking it and taking responsibility for it remains the human’s task.
+
+**“The label will become outdated with the models.”** The axes describe work steps, not products. Which models were involved is stated under A and may change.
 
 ## Status
 
@@ -71,15 +105,17 @@ CLEAR is a proposal. It has not yet been tested or evaluated in practice and is 
 
 ## Origin
 
-CLEAR emerged in my book [*Zwischen Prompt und Welt. Über das Leben mit KI*](https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556333-t-20562) [Between Prompt and World: On Living with AI], forthcoming on 14 December 2026 from Schwabe Verlag.
+CLEAR is also described in my book [*Zwischen Prompt und Welt. Über das Leben mit KI*](https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556326-t-20563) [Between Prompt and World: On Living with AI], forthcoming on 14 December 2026 from Schwabe Verlag. The current version, however, is always the one online, as CLEAR keeps evolving.
 
 CLEAR builds on concepts from my earlier book [*Annetzung. Handeln durch Technologie und Imagination*](https://doi.org/10.24894/978-3-7965-5360-8) [Acting through Technology and Imagination] (Schwabe 2025, open access, funded by the Swiss National Science Foundation), above all the concept of world transparency (*Welttransparenz*): the claim to know whether one is facing something actual, something computer-generated or something imagined.
 
 ## Citation
 
-If you use CLEAR or develop it further, please cite:
+If you use CLEAR or develop it further, please cite the current online version and the book in which CLEAR is described:
 
 Gantenbein, Leonie (2026): CLEAR – Kennzeichnung von KI-Beteiligung an Texten [CLEAR – Labelling AI Involvement in Texts]. Version 1.0. https://github.com/LeonieGantenbein/clear-kennzeichnung
+
+Gantenbein, Leonie (2026): Zwischen Prompt und Welt. Über das Leben mit KI [Between Prompt and World: On Living with AI]. Basel: Schwabe Verlag. https://www.schwabe.ch/produkt/leonie-gantenbein-zwischen-prompt-und-welt-9783796556326-t-20563
 
 Machine-readable citation: [CITATION.cff](CITATION.cff) (on GitHub via “Cite this repository”)
 
@@ -89,6 +125,6 @@ Machine-readable citation: [CITATION.cff](CITATION.cff) (on GitHub via “Cite t
 
 ---
 
-Theory (book text) – `CLEAR (author): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/2026, R1`<br>
-Version in this repository (preparation, abridgement, restructuring, linguistic revision) – `CLEAR (author): C2, L3, E(n)2, A: Claude Opus 5.5, 09–10/2026, R1`<br>
-English translation – `CLEAR (author): C2, L(t)3, E(n)2, A: Claude Opus 5.5, 10/2026, R1`
+Theory (book text) – `CLEAR (Leonie Gantenbein): C1, L3, E(p)1, A: Claude Opus 4.8, Fable 5, Opus 5, 04–09/2026, R1`<br>
+Version in this repository (preparation, abridgement, restructuring, linguistic revision) – `CLEAR (Leonie Gantenbein): C1, L3, E(n)2, A: Claude Opus 5.5, 09–11/2026, R1`<br>
+English translation – `CLEAR (Leonie Gantenbein): C1, L(t)3, E(n)2, A: Claude Opus 5.5, 10–11/2026, R1`
